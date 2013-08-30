@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30"
+   height="30"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="magazine.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.9647651"
+     inkscape:cx="14.161105"
+     inkscape:cy="12.658297"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="698"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     showgrid="false"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1022.3622)">
+    <path
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none"
+       d="m 10.561887,1024.3779 c -1.0482,0 -2,0.8273 -2,2.0625 0,0.5864 0.35874,1.1027 0.65625,1.2812 -1.17881,0.4356 -2.78188,1.9341 -3.09375,2.8438 -0.43345,0.8669 0.76306,1.5856 1.375,0.7187 0.61193,-0.8669 1.30396,-1.9275 3.34375,-2.4375 l 0,0.9063 c -0.84135,0.1596 -3.15625,1.5045 -3.15625,4.1562 l 0,15.4063 c 0,0.3824 0.1726,1.0312 0.9375,1.0312 l 6.8125,0 c 0.764939,0 0.937499,-0.6488 0.937499,-1.0312 l 0,-15.4063 c 0,-2.6517 -2.242509,-3.9966 -3.093749,-4.1562 l 0,-1.0938 3.093749,0 0,0.6875 7.59375,1.125 0,-5.1875 -7.59375,1.0938 0,0.7187 -3.062499,0 0,-1.125 -0.90625,0 c 0,-0.6969 -0.76718,-1.5937 -1.84375,-1.5937 z m -0.0313,1.0625 c 0.48536,0 0.90625,0.3896 0.90625,0.875 0,0.4854 -0.42089,0.875 -0.90625,0.875 -0.48548,0 -0.875,-0.3896 -0.875,-0.875 0,-0.4854 0.38952,-0.875 0.875,-0.875 z"
+       id="path3234-8"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
